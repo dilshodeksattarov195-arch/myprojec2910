@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configrync",
+        "uuid": 8695080,
+        "checksum": "mb1eg"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
